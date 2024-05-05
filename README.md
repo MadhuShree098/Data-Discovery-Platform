@@ -1,4 +1,4 @@
-##Data Discovery Platform
+Data Discovery Platform
 Welcome to the Data Discovery Platform! This platform allows users to explore and visualize their data in an interactive manner, enabling insights and discoveries from datasets of various types.
 
 
